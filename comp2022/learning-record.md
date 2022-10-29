@@ -11,6 +11,11 @@
 1. 熟悉rustlings的用法
 2. 完成rustlings的Variables + Functions + If + quiz1
 
+## 2022.10.29
+
+1. 熟悉rustlings的用法
+2. 完成rustlings的Move Semantics + Primitive Types + Structs + Enums + Modules1
+
 
 
 # 第二阶段
