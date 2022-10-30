@@ -13,8 +13,12 @@
 
 ## 2022.10.29
 
-1. 熟悉rustlings的用法
-2. 完成rustlings的Move Semantics + Primitive Types + Structs + Enums + Modules1
+1. 完成rustlings的Move Semantics + Primitive Types + Structs + Enums + Modules1
+
+## 2022.10.30
+
+1. 完成rustlings的Collections + Strings + Quiz2 + Errors + Generics
+
 
 
 
