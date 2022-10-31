@@ -9,16 +9,23 @@
 ## 2022.10.28
 
 1. 熟悉rustlings的用法
-2. 完成rustlings的Variables + Functions + If + quiz1
+2. 学习rust变量、函数和控制流
+3. 完成rustlings的Variables + Functions + If + quiz1
 
 ## 2022.10.29
 
-1. 完成rustlings的Move Semantics + Primitive Types + Structs + Enums + Modules1
+1. 学习rust赋值语义、基础类型、代数数据类型、模块化机制
+2. 完成rustlings的Move Semantics + Primitive Types + Structs + Enums + Modules1
 
 ## 2022.10.30
 
-1. 完成rustlings的Collections + Strings + Quiz2 + Errors + Generics
+1. 学习rust字符串、集合、错误处理、泛型
+2. 完成rustlings的Collections + Strings + Quiz2 + Errors + Generics
 
+## 2022.11.01
+
+1. 学习rust trait对象、空指针处理、测试
+2. 完成rustlings的Option + Trait + Tests + Quiz3
 
 
 
