@@ -22,10 +22,18 @@
 1. 学习rust字符串、集合、错误处理、泛型
 2. 完成rustlings的Collections + Strings + Quiz2 + Errors + Generics
 
-## 2022.11.01
+## 2022.10.31
 
 1. 学习rust trait对象、空指针处理、测试
 2. 完成rustlings的Option + Trait + Tests + Quiz3
+
+## 2022.11.01
+无
+
+## 2022.11.02
+1.学习rust智能指针、迭代器和函数式
+2.完成rustlings的Standard Library Types
+
 
 
 
