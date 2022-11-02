@@ -31,9 +31,9 @@
 无
 
 ## 2022.11.02
-1.学习rust智能指针、迭代器和函数式
-2.完成rustlings的Standard Library Types
 
+1. 学习rust智能指针、迭代器和函数式
+2. 完成rustlings的Standard Library Types
 
 
 
