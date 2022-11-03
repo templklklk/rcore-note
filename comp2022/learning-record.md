@@ -35,6 +35,9 @@
 1. 学习rust智能指针、迭代器和函数式
 2. 完成rustlings的Standard Library Types
 
+## 2022.11.03
+
+学习rust闭包和并发编程
 
 
 # 第二阶段
