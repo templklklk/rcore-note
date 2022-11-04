@@ -10,7 +10,7 @@
 
 1. 熟悉rustlings的用法
 2. 学习rust变量、函数和控制流
-3. 完成rustlings的Variables + Functions + If + quiz1
+3. 完成rustlings的Variables + Functions + If + Quiz1
 
 ## 2022.10.29
 
@@ -39,6 +39,10 @@
 
 学习rust闭包和并发编程
 
+## 2022.11.04
+
+1.学习rust宏
+2.完成rustlings Thread + Macros + Quiz4
 
 # 第二阶段
 
