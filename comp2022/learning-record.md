@@ -41,13 +41,13 @@
 
 ## 2022.11.04
 
-1.学习rust宏
-2.完成rustlings Clippy + Thread + Macros + Quiz4
+1. 学习rust宏
+2. 完成rustlings Clippy + Thread + Macros + Quiz4
 
 ## 2022.11.05
 
-1.学习rust类型转换
-2.完成rustlings Conversions + Advanced Errors
+1. 学习rust类型转换
+2. 完成rustlings Conversions + Advanced Errors
 
 
 # 第二阶段
