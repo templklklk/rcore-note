@@ -49,6 +49,14 @@
 1. 学习rust类型转换
 2. 完成rustlings Conversions + Advanced Errors
 
+## 2022.11.06
+
+1. 补充 rustlings 题解
+
+## 2022.11.07
+
+无
+
 
 # 第二阶段
 
