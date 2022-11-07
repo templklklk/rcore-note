@@ -51,7 +51,7 @@
 
 ## 2022.11.06
 
-1. 补充 rustlings 题解
+1. 补充 rustlings 题解    https://xchnotxzh.github.io/posts/rustlings/
 
 ## 2022.11.07
 
